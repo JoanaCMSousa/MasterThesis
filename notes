@@ -1,0 +1,5 @@
+--> When preprocessing the data, if we put lists on a column, per visitor,
+    We need to be careful when encoding it
+--> One possible way to do so is through MultiLabelBinazer from sklearn.preprocessing
+--> MultiLabelBinazer: https://stackoverflow.com/questions/50030751/how-do-i-use-onehotencoder-on-a-pandas-series-of-lists
+--> https://stackoverflow.com/questions/42711861/scikit-learn-one-hot-encoding-of-column-with-list-values
