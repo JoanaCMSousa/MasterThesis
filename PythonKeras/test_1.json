@@ -1,0 +1,48 @@
+[
+  {
+    "visitorId":"63077af1-c15d-40e8-9b2b-64c36d188658",
+    "visitId":"eb9b64e7-ce73-4802-ba46-daf76a4ca8bc",
+    "newVisit": true,
+    "mountId":"bc0e8aea-ae27-4a62-b2e5-5162ced50cb4",
+    "pageId":"hst:pages/documentation",
+    "pageUrl":"https://www.onehippo.org/library/administration/searchindex-configuration.html",
+    "pathInfo":"/library/administration/searchindex-configuration.html",
+    "remoteAddr":"125.22.193.148",
+    "referer":"https://www.google.co.in/",
+    "userAgent":"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36",
+    "timestamp":1472489165809,
+    "collectorData":{
+      "geo":{
+        "continent":"AS",
+        "country":"IN",
+        "city":"New Delhi",
+        "latitude":28.6,
+        "longitude":77.2,
+        "location":{
+          "lat":28.6,
+          "lon":77.2}},
+      "doctype":{
+        "terms":["connect:documentation"]},
+      "referrer":{
+        "terms":["https://www.google.co.in/"]},
+      "audience":{
+        "terms":["developers","administrators"]},
+      "returningvisitor":false,
+      "journeypersona":{
+        "terms":["developer"]},
+      "journeyphase":{
+        "terms":["using-hippo"]},
+      "channel":"Hippo Connect 11",
+      "doccreatedby":{
+        "terms":["aschrijvers"]},
+      "dayofweek":1,
+      "categories":{
+        "terms":["configuration","repository","search"]},
+      "parameters":{}},
+    "data":{
+      "isLoggedInVisitor":"false"},
+    "experimentSelectedVariantList":null,
+    "personaIdScores":[],
+    "globalPersonaIdScores":[]
+  }
+]
